@@ -1,0 +1,4 @@
+8 10 --- Suma: 18 --- Multiplicación: 80
+2 9 --- Suma: 11 --- Multiplicación: 18
+6 4 --- Suma: 10 --- Multiplicación: 24
+2 5 --- Suma: 7 --- Multiplicación: 10
